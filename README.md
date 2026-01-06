@@ -1,7 +1,7 @@
 # Flutter Download - 抖音解析下载工具
 
 <p align="center">
-  <img src="lib/assets/img/avatar.jpg" width="120" alt="App Logo"/>
+  <img src="https://rin-img.liyunfei.eu.org/douyin-hono-images/u1_1767670123250_uwjgkw.jpg" width="120" alt="App Logo"/>
 </p>
 
 <p align="center">
