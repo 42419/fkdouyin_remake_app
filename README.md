@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/42419/flutter_download">
-    <img src="https://img.shields.io/github/stars/42419/flutter_download?style=social" alt="GitHub stars"/>
+  <a href="https://github.com/42419/fkdouyin_remake_app">
+    <img src="https://img.shields.io/github/stars/42419/fkdouyin_remake_app?style=social" alt="GitHub stars"/>
   </a>
   <a href="https://github.com/42419/flutter_download/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
   </a>
-  <a href="https://github.com/42419/flutter_download">
+  <a href="https://github.com/42419/fkdouyin_remake_app">
     <img src="https://img.shields.io/badge/platform-Web%20%7C%20Mobile-blue.svg" alt="Platform"/>
   </a>
 </p>
